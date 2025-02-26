@@ -1,0 +1,16 @@
+2025-02-17 19:31:29 - Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: Host desconocido. 
+2025-02-24 18:36:35 - Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: Host desconocido. 
+2025-02-24 18:40:26 - Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: Host desconocido. 
+2025-02-24 18:56:53 - Error al enviar correo: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: Host desconocido. 
+2025-02-24 18:57:45 - Error al enviar correo: SMTP Error: Could not authenticate.
+2025-02-24 18:57:55 - Error al enviar correo: SMTP Error: Could not authenticate.
+2025-02-24 19:02:26 - Error al enviar correo: Invalid address:  (to): 
+2025-02-24 19:03:10 - Error al enviar correo: SMTP Error: Could not authenticate.
+2025-02-24 19:03:12 - Error al enviar correo: SMTP Error: Could not authenticate.
+2025-02-24 19:09:01 - No se puede dividir por cero.
+2025-02-24 19:27:30 - Error al enviar correo: SMTP Error: Could not authenticate.
+2025-02-26 20:06:13 - No se puede dividir por cero.
+2025-02-26 20:07:37 - ERROR: No se puede dividir por cero.
+2025-02-26 20:09:05 - No se puede dividir por cero.
+2025-02-26 21:25:03 - Error al enviar correo: Invalid address:  (From): 
+2025-02-26 21:25:20 - No se puede dividir por cero.
